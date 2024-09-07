@@ -30,3 +30,13 @@ Aqui está o que usamos para construir esta belezura:
 1. Clone o repositório para sua máquina local:
    ```bash
    git clone https://github.com/seu-usuario/27-estados-do-brasil.git
+
+2. Navegue até o diretório da aplicação:
+   ```bash
+   cd 27-estados-do-brasil
+
+3. Abra o arquivo `index.html` em seu navegador favorito e divirta-se explorando os estados!
+
+## Contribuições
+
+Se você deseja contribuir com melhorias, corrigir bugs ou adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou um pull request. Agradecemos qualquer ajuda para tornar esta aplicação ainda melhor!
